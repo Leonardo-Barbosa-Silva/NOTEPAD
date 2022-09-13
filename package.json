@@ -1,0 +1,27 @@
+{
+  "name": "notepad",
+  "version": "1.0.0",
+  "description": "Notepad by using React",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardo-Barbosa-Silva/NOTEPAD.git"
+  },
+  "author": "Leonardo Barbosa Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardo-Barbosa-Silva/NOTEPAD/issues"
+  },
+  "homepage": "https://github.com/Leonardo-Barbosa-Silva/NOTEPAD#readme",
+  "dependencies": {
+    "dotenv": "16.0.2",
+    "express": "4.18.1",
+    "mongoose": "^6.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}
